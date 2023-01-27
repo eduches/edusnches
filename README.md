@@ -3,11 +3,12 @@
 
 
 
-<div align="center">
-<img width="450em" alt="Status Github Eduardo" src="https://github-readme-stats.vercel.app/api?username=edusnches&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusnches&layout=compact&theme=dracula"/>
-</div>
+<a href="https://github.com/edusnches">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=edusnches&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusnches&layout=compact&langs_count=7&theme=react" />
 
+
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
@@ -15,5 +16,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{edusnches}/count.svg" /></p> 
 <br></div>
 
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 
