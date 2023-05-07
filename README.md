@@ -4,8 +4,8 @@
 
 
 <div>
-<img width="450em" alt="Status Github edusnches" src="https://github-readme-stats.vercel.app/api?username=edusnches&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusnches&layout=compact&theme=dracula" />
+<img width="450em" alt="Status Github edusnches" src="https://github-readme-stats.vercel.app/api?username=edusnches&show_icons=true&theme=dark" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusnches&layout=compact&theme=dark" />
 </div>
 
 
